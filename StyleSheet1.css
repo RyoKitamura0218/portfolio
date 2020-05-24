@@ -206,7 +206,7 @@ header #toggle:after
     align-items: center;
     transition: 0.5s;
     z-index: 2;
-    background:#e6e6fa;/*haikeinoiro*/
+    background:#fff;/*haikeinoiro*/
     background-size: cover;
     /*min-height: 130vh;
     padding-bottom:120px;
