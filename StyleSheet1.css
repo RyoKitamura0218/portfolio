@@ -429,13 +429,16 @@ input[name="r"]{
             margin: initial;
             margin-right: 10px;
         }
-
+    footer {
+        padding: 0px 0px 0px 0px;
+    }
     .footA {
         flex-direction: column;
     }
     .footA div
     {
-        padding:3vh 0 3vh 0;
+        padding:3vh 0px 3vh 0px;
+
         width: 100%;
     }
     .slidershow{
